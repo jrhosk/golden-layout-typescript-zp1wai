@@ -1,0 +1,7 @@
+@import "css/goldenlayout-base.css";
+@import "css/goldenlayout-dark-theme.css";
+
+
+h1 {
+  color: red;
+}
